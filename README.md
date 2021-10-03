@@ -14,5 +14,5 @@ https://www.goethe.de/prj/one/en/aco/ver/hac/cha.html#i7094315
 
 The idea was to create solution that could be potentially language-independent. We tested several approaches:
 - Logistic Regression (sklearn) - Challenge_4.ipynb
-- NER and dependency trees (spacy)
-- pretrained Word Embeddings (gensim, just a quick look)
+- NER and dependency trees (spacy) - Named_Entity_Rec.ipynb
+- pretrained Word Embeddings (gensim, just a quick look) - Challenge_4.ipynb
