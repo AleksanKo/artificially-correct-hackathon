@@ -3,7 +3,7 @@ Submission for Artificially Correct Hackathon 2021.
 
 **Task: Identifying sentences susceptible to machine translation bias**
 
-**Team: Aleksandra Konovalova, Lukas Felser, Laura König**
+**Team: Aleksandra Konovalova (https://github.com/AleksanKo/), Lukas Felser (https://github.com/lukasfelser), Laura König**
 
 Machine Translation is not perfect, and it can make mistakes in translations. However, if we could identify sentences that are more susceptible to a bias, we could prevent some of them happening.
 
